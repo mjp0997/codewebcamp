@@ -61,6 +61,8 @@
    color: var(--grey);
 
    text-align: center;
+
+   cursor: text;
 }
 
 .newsletter-form > button {
@@ -77,4 +79,12 @@
 
    font-weight: 500;
    letter-spacing: 0.1rem;
+
+   cursor: pointer;
+
+   transition: background-color 0.2s ease-in-out;
+}
+
+.newsletter-form > button:hover {
+  background-color: var(--dark-main-color);
 }
