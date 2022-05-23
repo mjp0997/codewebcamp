@@ -40,6 +40,7 @@
    font-weight: 500;
    letter-spacing: 0.1rem;
    text-transform: uppercase;
+   text-align: center;
 
    transition: color 0.3s ease-in-out;
 }
@@ -74,4 +75,27 @@
 
 .courses-grid-element:hover .courses-grid-row > p {
    color: var(--main-color);
+}
+
+/* vista de cursos */
+
+.courses-grid-title {
+   width: 100%;
+
+   padding: 2rem 0;
+
+   color: #FFFFFF;
+   background-color: var(--dark-main-color);
+
+   font-size: 2.4rem;
+   font-weight: 500;
+
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   column-gap: 2rem;
+}
+
+.courses-grid-placeholder {
+   background-color: #FFFFFF;
 }
