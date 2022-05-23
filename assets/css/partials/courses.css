@@ -4,9 +4,9 @@
    grid-auto-rows: 1fr;
    gap: 0.1rem;
 
-   background-color: #ACACAC;
+   background-color: var(--light-grey);
 
-   border: 0.1rem solid #ACACAC;
+   border: 0.1rem solid var(--light-grey);
 }
 
 .courses-grid-element {
