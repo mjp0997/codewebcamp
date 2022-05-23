@@ -53,3 +53,7 @@ section.section {
 
    background-color: rgba(0, 0, 0, 0.7);
 }
+
+.overlayed-section-body {
+   z-index: 2;
+}
