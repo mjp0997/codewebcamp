@@ -1,3 +1,10 @@
 :root {
-   
+   /* Fonts */
+   --main-font: 'Roboto Flex', sans-serif;
+   --brand-font: 'Macondo', cursive;
+
+   /* Colors */
+   --black: rgb(0, 14, 36);
+
+   --main-color: rgb(0, 217, 255);
 }
