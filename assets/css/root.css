@@ -1,7 +1,8 @@
 :root {
    /* Fonts */
    --main-font: 'Roboto Flex', sans-serif;
-   --brand-font: 'Macondo', cursive;
+   --brand-font: 'Play', sans-serif;
+   --low-brand-font: 'Koulen', cursive;
 
    /* Colors */
    --black: rgb(0, 14, 36);

@@ -51,12 +51,13 @@
 .header-logo > p {
    font-size: 15rem;
    font-family: var(--brand-font);
-   font-weight: 900;
+   font-weight: 700;
    letter-spacing: 0.5rem;
 }
 
 .header-logo > span {
    font-size: 3rem;
+   font-family: var(--low-brand-font);
    font-weight: 700;
    letter-spacing: 0.01rem;
 
