@@ -54,3 +54,18 @@
 .guest:hover > .guest-name {
    bottom: -6rem;
 }
+
+/* Marquee */
+
+.guests-marquee {
+   padding: 1.5rem 0;
+
+   background-color: var(--light-main-color);
+}
+
+.guests-marquee > p {
+   font-size: 2rem;
+   font-weight: 500;
+
+   color: var(--grey);
+}
