@@ -64,6 +64,10 @@
    color: var(--main-color);
 }
 
+.main-nav-link.important.active {
+   color: #FFFFFF;
+}
+
 .main-nav-link.important:hover {
    color: #FFFFFF;
 }

@@ -97,5 +97,5 @@
 }
 
 .courses-grid-placeholder {
-   background-color: #FFFFFF;
+   background-color: var(--bg-body);
 }

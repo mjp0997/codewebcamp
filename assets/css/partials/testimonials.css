@@ -12,9 +12,10 @@
 
    padding: 2rem 3rem;
 
+   border: 0.1rem solid var(--light-grey);
    border-radius: 1rem;
 
-   border: 0.1rem solid var(--light-grey);
+   background-color: #FFFFFF;
 }
 
 .testimonials-grid-element-img {

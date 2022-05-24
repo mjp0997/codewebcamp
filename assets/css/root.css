@@ -5,6 +5,8 @@
    --low-brand-font: 'Koulen', cursive;
 
    /* Colors */
+   --bg-body: rgb(240, 250, 255);
+
    --black: rgb(0, 14, 36);
    --grey: #353535;
    --light-grey: #ACACAC;
